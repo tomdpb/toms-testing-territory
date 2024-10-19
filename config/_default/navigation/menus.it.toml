@@ -4,11 +4,11 @@
   pageRef = "/about/about_me.it.md"
   weight = 1
 
-# [[main]]
-#   identifier = "blog"
-#   name = "Blog"
-#   pageRef = "/blog"
-#   weight = 2
+[[main]]
+  identifier = "blog"
+  name = "Blog"
+  pageRef = "/blog"
+  weight = 2
 
 [[main]]
   identifier = "projects"
