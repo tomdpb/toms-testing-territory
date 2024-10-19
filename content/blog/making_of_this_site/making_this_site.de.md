@@ -1,4 +1,5 @@
 ---
+slug: erstellung-dieser-website
 title: Erstellung dieser Website
 date: 2024-10-18
 author: Tom

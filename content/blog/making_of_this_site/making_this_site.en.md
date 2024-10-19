@@ -1,4 +1,5 @@
 ---
+slug: making_this_website
 title: Making this Website
 date: 2024-10-18
 author: Tom
