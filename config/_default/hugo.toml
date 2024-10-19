@@ -1,3 +1,4 @@
+baseURL = "https://tomdpb.github.io/toms-territory"
 languageCode = 'en-gb'
 title = "Tom's Territory"
 theme = 'PaperMod'
@@ -5,3 +6,4 @@ defaultContentLanguage = 'en'
 enableRobotsTXT = false
 ShowToc = true
 ShowCodeCopyButtons = true
+relativeURLS = false
