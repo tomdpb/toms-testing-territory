@@ -1,0 +1,39 @@
+[de]
+  languageName = 'Deutsch'
+  languageCode = "de"
+  weight = 1
+  title = 'Toms Territorium'
+  [de.params]
+    homeinfoparams.title = "Kontakt"
+
+[en]
+  languageName = 'English (UK)'
+  languageCode = "en-GB"
+  weight = 2
+  title = "Tom's Territory"
+  [en.params]
+    homeinfoparams.title = "Contact"
+
+[es]
+  languageName = "Español"
+  languageCode = "es"
+  weight = 3
+  title = "Territorio de Tom"
+  [es.params]
+    homeinfoparams.title = "Contacto"
+
+[it]
+  languageName = "Italiano"
+  languageCode = "it"
+  weight = 4
+  title = "Territorio di Tom"
+  [it.params]
+    homeinfoparams.title = "Contatto"
+
+[pt]
+  languageName = 'Português (BR)'
+  languageCode = "pt-br"
+  weight = 5
+  title = "Território do Tom"
+  [pt.params]
+    homeinfoparams.title = "Contato"

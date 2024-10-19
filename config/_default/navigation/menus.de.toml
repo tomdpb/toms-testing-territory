@@ -1,0 +1,14 @@
+[[main]]
+  name = "Über mich"
+  pageRef = "/about/about_me.de.md"
+  weight = 1
+
+# [[main]]
+#   name = "Blog"
+#   pageRef = "/blog"
+#   weight = 2
+
+[[main]]
+  name = "Projekte"
+  pageRef = "/projects"
+  weight = 3
