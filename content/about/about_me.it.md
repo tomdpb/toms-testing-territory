@@ -1,8 +1,8 @@
 ---
+slug: su-di-me
 title: Su Di Me
 date: 2024-10-17
 language: it
-menu: about
 ---
 
 # Chi sono?

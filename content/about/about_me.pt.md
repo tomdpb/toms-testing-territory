@@ -1,8 +1,8 @@
 ---
+slug: sobre-mim
 title: Sobre Mim
 date: 2024-10-17
 language: pt
-menu: about
 ---
 
 # Quem sou eu?

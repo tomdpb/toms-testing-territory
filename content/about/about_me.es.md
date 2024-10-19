@@ -1,8 +1,8 @@
 ---
+slug: sobre-mi
 title: Sobre Mí
 date: 2024-10-17
 language: es
-menu: about
 ---
 
 # ¿Quén soy?

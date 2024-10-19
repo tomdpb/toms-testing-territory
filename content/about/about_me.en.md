@@ -1,8 +1,8 @@
 ---
+slug: about-me
 title: About Me
 date: 2024-10-17
 lanaguage: en
-menu: about
 ---
 
 # Who am I?
