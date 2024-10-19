@@ -1,4 +1,4 @@
-baseURL = "https://tomdpb.gitlab.io/toms-territory/"
+baseURL = "https://tomdpb.github.io/"
 languageCode = 'en-gb'
 title = "Tom's Territory"
 theme = 'PaperMod'
