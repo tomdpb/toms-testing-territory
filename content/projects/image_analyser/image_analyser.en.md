@@ -1,4 +1,5 @@
 ---
+slug: image_analyser
 title: Image Analyser
 language: en
 author: Tom
