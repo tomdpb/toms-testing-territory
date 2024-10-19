@@ -3,7 +3,6 @@ title: Image Analyser
 language: en
 author: Tom
 Date: 2024-10-19
-menu: projects
 ---
 
 - Status: Complete
