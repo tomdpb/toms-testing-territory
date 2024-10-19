@@ -3,6 +3,7 @@ slug: sobre-mi
 title: Sobre Mí
 date: 2024-10-17
 language: es
+weight: 0
 ---
 
 # ¿Quén soy?

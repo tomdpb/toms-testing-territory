@@ -3,6 +3,7 @@ slug: sobre-mim
 title: Sobre Mim
 date: 2024-10-17
 language: pt
+weight: 0
 ---
 
 # Quem sou eu?

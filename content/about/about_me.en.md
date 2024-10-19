@@ -3,6 +3,7 @@ slug: about-me
 title: About Me
 date: 2024-10-17
 lanaguage: en
+weight: 0
 ---
 
 # Who am I?
