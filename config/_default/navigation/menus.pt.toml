@@ -1,14 +1,17 @@
 [[main]]
+  identifier = "about_me"
   name = "Sobre mim"
   pageRef = "/about/about_me.pt.md"
   weight = 1
 
 # [[main]]
+#   identifier = "blog"
 #   name = "Blog"
 #   pageRef = "/blog"
 #   weight = 2
 
 [[main]]
+  identifier = "projects"
   name = "Projetos"
   pageRef = "/projects"
   weight = 3
