@@ -5,6 +5,8 @@
   title = 'Toms Territorium'
   [de.params]
     homeinfoparams.title = "Kontakt"
+  [de.permalinks]
+    projects = "/projekte/:slug"
 
 [en]
   languageName = 'English (UK)'
@@ -21,6 +23,8 @@
   title = "Territorio de Tom"
   [es.params]
     homeinfoparams.title = "Contacto"
+  [es.permalinks]
+    projects = "/proyectos/:slug"
 
 [it]
   languageName = "Italiano"
@@ -29,6 +33,8 @@
   title = "Territorio di Tom"
   [it.params]
     homeinfoparams.title = "Contatto"
+  [it.permalinks]
+    projects = "/progetti/:slug"
 
 [pt]
   languageName = 'Português (BR)'
@@ -37,3 +43,5 @@
   title = "Território do Tom"
   [pt.params]
     homeinfoparams.title = "Contato"
+  [pt.permalinks]
+    projects = "/projetos/:slug"
