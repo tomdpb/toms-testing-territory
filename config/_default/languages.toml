@@ -1,5 +1,6 @@
 [de]
   languageName = 'Deutsch'
+  languageCode = "de"
   weight = 1
   title = 'Toms Territorium'
   [de.params]
