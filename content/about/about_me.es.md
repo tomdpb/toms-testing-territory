@@ -124,3 +124,11 @@ Aquí tienes algunas habilidades e instrumentos con los que he trabajado.
 - [Scrum](https://www.scrum.org/)
 - [TestIO](https://test.io/)
 - [Trello](https://trello.com/)
+
+# Contacto
+
+- Email: <plutomega@proton.me>
+- LinkedIn: [Thomas de Paula Barbosa](https://linkedin.com/in/thomas-de-paula-barbosa-17302b243)
+- GitHub: [tomdbp](https://github.com/tomdpb)
+- GitLab: [tomdbp](https://gitlab.com/tomdpb)
+- Apóyame en Ko-Fi: [tomdp](https://ko-fi.com/tomdpb)

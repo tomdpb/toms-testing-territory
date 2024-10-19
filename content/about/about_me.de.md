@@ -120,3 +120,11 @@ Dies sind verschiedene Technologien und Dinge, mit denen ich gearbeitet habe.
 - [Scrum](https://www.scrum.org/)
 - [TestIO](https://test.io/)
 - [Trello](https://trello.com/)
+
+# Kontakt
+
+- Email: <plutomega@proton.me>
+- LinkedIn: [Thomas de Paula Barbosa](https://linkedin.com/in/thomas-de-paula-barbosa-17302b243)
+- GitHub: [tomdbp](https://github.com/tomdpb)
+- GitLab: [tomdbp](https://gitlab.com/tomdpb)
+- Unterstütze mich auf Ko-Fi: [tomdp](https://ko-fi.com/tomdpb)

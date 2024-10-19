@@ -120,3 +120,11 @@ Ecco alcune competenze e strumenti con cui ho lavorato.
 - [Scrum](https://www.scrum.org/)
 - [TestIO](https://test.io/)
 - [Trello](https://trello.com/)
+
+# Contatto
+
+- Email: <plutomega@proton.me>
+- LinkedIn: [Thomas de Paula Barbosa](https://linkedin.com/in/thomas-de-paula-barbosa-17302b243)
+- GitHub: [tomdbp](https://github.com/tomdpb)
+- GitLab: [tomdbp](https://gitlab.com/tomdpb)
+- Supportatemi su Ko-Fi: [tomdp](https://ko-fi.com/tomdpb)
