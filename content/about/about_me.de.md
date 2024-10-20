@@ -2,6 +2,7 @@
 slug: ueber-mich
 title: Über Mich
 date: 2024-10-17
+language: de
 weight: 0
 ---
 
