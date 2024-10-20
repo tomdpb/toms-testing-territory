@@ -3,6 +3,7 @@
   languageCode = "de"
   weight = 1
   title = 'Toms Territorium'
+  contentDir = "content/de"
   [de.params]
     homeinfoparams.title = "Kontakt"
   [de.permalinks]
@@ -13,6 +14,7 @@
   languageCode = "en-GB"
   weight = 2
   title = "Tom's Territory"
+  contentDir = "content/en"
   [en.params]
     homeinfoparams.title = "Contact"
 
@@ -21,6 +23,7 @@
   languageCode = "es"
   weight = 3
   title = "Territorio de Tom"
+  contentDir = "content/es"
   [es.params]
     homeinfoparams.title = "Contacto"
   [es.permalinks]
@@ -31,6 +34,7 @@
   languageCode = "it"
   weight = 4
   title = "Territorio di Tom"
+  contentDir = "content/it"
   [it.params]
     homeinfoparams.title = "Contatto"
   [it.permalinks]
@@ -41,6 +45,7 @@
   languageCode = "pt-br"
   weight = 5
   title = "Território do Tom"
+  contentDir = "content/pt"
   [pt.params]
     homeinfoparams.title = "Contato"
   [pt.permalinks]
