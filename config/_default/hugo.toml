@@ -3,6 +3,7 @@ languageCode = 'en-gb'
 title = "Tom's Territory"
 theme = 'PaperMod'
 defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
 enableRobotsTXT = false
 ShowToc = true
 ShowCodeCopyButtons = true
