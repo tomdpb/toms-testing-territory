@@ -3,7 +3,6 @@
   languageCode = "de"
   weight = 1
   title = 'Toms Territorium'
-  contentDir = "content/"
   [de.params]
     homeinfoparams.title = "Kontakt"
   [de.permalinks]
