@@ -15,6 +15,8 @@
   title = "Tom's Territory"
   [en.params]
     homeinfoparams.title = "Contact"
+  [en.permalinks]
+    projects = "/projects/:slug"
 
 [es]
   languageName = "Español"
