@@ -1,6 +1,7 @@
 [de]
   languageName = 'Deutsch'
   languageCode = "de"
+  languageDirection = "ltr"
   weight = 1
   title = 'Toms Territorium'
   [de.params]
@@ -11,6 +12,7 @@
 [en]
   languageName = 'English (UK)'
   languageCode = "en-GB"
+  languageDirection = "ltr"
   weight = 2
   title = "Tom's Territory"
   [en.params]
@@ -21,6 +23,7 @@
 [es]
   languageName = "Español"
   languageCode = "es"
+  languageDirection = "ltr"
   weight = 3
   title = "Territorio de Tom"
   [es.params]
@@ -31,6 +34,7 @@
 [it]
   languageName = "Italiano"
   languageCode = "it"
+  languageDirection = "ltr"
   weight = 4
   title = "Territorio di Tom"
   [it.params]
@@ -41,6 +45,7 @@
 [pt]
   languageName = 'Português (BR)'
   languageCode = "pt-br"
+  languageDirection = "ltr"
   weight = 5
   title = "Território do Tom"
   [pt.params]
