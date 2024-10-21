@@ -3,7 +3,6 @@ slug: creacion_de_este_sitio_web
 title: Creación de este sitio web
 date: 2024-10-18
 author: Tom
-menu: blog
 language: es
 ---
 

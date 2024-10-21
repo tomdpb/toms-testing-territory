@@ -3,7 +3,6 @@ slug: elaboracao-deste-website
 title: Elaboração deste Website
 date: 2024-10-18
 author: Tom
-menu: blog
 language: pt
 ---
 
