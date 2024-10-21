@@ -1,17 +1,17 @@
 [[main]]
   identifier = "about_me"
   name = "Über mich"
-  pageRef = "about/about_me"
+  pageRef = "/about/about_me"
   weight = 1
 
 [[main]]
   identifier = "blog"
   name = "Blog"
-  pageRef = "blog/"
+  pageRef = "/blog/"
   weight = 2
 
 [[main]]
   identifier = "projects"
   name = "Projekte"
-  pageRef = "projects/"
+  pageRef = "/projects/"
   weight = 3
