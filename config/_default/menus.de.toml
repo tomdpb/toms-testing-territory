@@ -1,7 +1,7 @@
 [[main]]
   identifier = "about_me"
   name = "Über mich"
-  pageRef = "/about/about_me"
+  url = "/about/about_me"
   weight = 1
 
 [[main]]
