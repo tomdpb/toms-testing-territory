@@ -1,4 +1,3 @@
 ---
-url: proyectos
 title: Proyectos
 ---
