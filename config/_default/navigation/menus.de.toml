@@ -1,17 +1,18 @@
 [[main]]
   identifier = "about_me"
   name = "Über mich"
-  pageRef = "/about/about_me.de.md"
+  url = "about/"
   weight = 1
 
 [[main]]
+  # somehow, only blog works. Maybe this is because it is untranslateable?
   identifier = "blog"
   name = "Blog"
-  pageRef = "/blog"
+  url = "blog/"
   weight = 2
 
 [[main]]
   identifier = "projects"
   name = "Projekte"
-  pageRef = "/projects"
+  url = "projects/"
   weight = 3
